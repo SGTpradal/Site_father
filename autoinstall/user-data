@@ -5,7 +5,7 @@ autoinstall:
   identity:
     hostname: virtus-web-01
     username: virtusadm
-    password: "$6$COLE_AQUI_O_HASH_DA_SENHA"
+    password: "$6$P/q59wEt2xyRiPL2$r1Z3T2MuiiZGRPx.NafVlrbarWLlGzBs1yJWBpmoATGeJ1ZC0dKIW4JQ2jNW5rJG5HcVfBY7mNOlGhNn/dXt.0"
 
   locale: pt_BR.UTF-8
   keyboard:
